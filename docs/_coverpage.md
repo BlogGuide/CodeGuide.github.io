@@ -8,5 +8,11 @@
     
 [![stars](https://badgen.net/github/stars/fuzhengwei/CodeGuide?icon=github&color=4ab8a1)](https://github.com/fuzhengwei/CodeGuide) [![forks](https://badgen.net/github/forks/fuzhengwei/CodeGuide?icon=github&color=4ab8a1)](https://github.com/fuzhengwei/CodeGuide) [<img src="https://itedus.cn/_media/wxbugstack.svg">](https://itedus.cn/_media/qrcode.png?x-oss-process=style/may)    
 
+<br/>
+<div align="center">
+    <a href="http://beian.miit.gov.cn" style="text-decoration:none">京ICP备19031103号-2</a>
+</div>
+<br/>
+
 [GitHub](<https://github.com/fuzhengwei/CodeGuide>)
 [开始阅读](README.md)
